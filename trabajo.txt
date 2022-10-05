@@ -1,1 +1,10 @@
 final
+
+----Dias de la semana-----
+-Lunes
+-Martes
+-Miercoles
+-Juves
+-Viernes
+-Sabado
+-Domingos
